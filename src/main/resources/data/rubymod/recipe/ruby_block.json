@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": ["RRR", "RRR", "RRR"],
+  "key": {"R": {"item": "rubymod:ruby"}},
+  "result": {"id": "rubymod:ruby_block", "count": 1}
+}
